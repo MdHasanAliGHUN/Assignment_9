@@ -1,0 +1,74 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting for Dogs",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Custom coat fitting and warm outfit options to keep your dog comfortable in the cold.",
+    "image": "https://i.ibb.co.com/4y3JLHx/stellarstriked-jaacx-H9-Zi-Ec-unsplash.jpg",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Grooming & Paw Treatment",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Professional grooming with moisturizing paw balm and winter-safe shampoo.",
+    "image": "https://i.ibb.co.com/yBN5kcT1/michel-la-rue-Rwoltm-Ng8-Fg-unsplash.jpg",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Heated Pet Bed Service",
+    "providerName": "WarmPaws Comfort Hub",
+    "providerEmail": "support@warmpaws.com",
+    "price": 40,
+    "rating": 4.7,
+    "slotsAvailable": 5,
+    "description": "Premium heated beds installation and setup to ensure your pet stays cozy through winter nights.",
+    "image": "https://i.ibb.co.com/DDMpDsDT/natalia-campos-s-ERXc-JJpx-Io-unsplash.jpg",
+    "category": "Comfort"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Winter Health Check-Up",
+    "providerName": "HappyTails Vet Clinic",
+    "providerEmail": "contact@happytailsvet.com",
+    "price": 50,
+    "rating": 5.0,
+    "slotsAvailable": 6,
+    "description": "Comprehensive vet check-up to keep your pet’s immune system strong during cold weather.",
+    "image": "https://i.ibb.co.com/chRhmWzG/bundo-kim-l-DUco-CTx2l8-unsplash.jpg",
+    "category": "Health"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Pet Nutrition Plan for Cold Season",
+    "providerName": "FurWell Nutrition Center",
+    "providerEmail": "care@furwell.com",
+    "price": 20,
+    "rating": 4.6,
+    "slotsAvailable": 7,
+    "description": "Customized meal plan with high-protein and energy-rich diet to maintain warmth and vitality.",
+    "image": "https://i.ibb.co.com/sv76Kphn/danil-aksenov-q-Trf-RLv-Oo-Hg-unsplash.jpg",
+    "category": "Nutrition"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Snow Walk Safety Training",
+    "providerName": "PetSafe Adventures",
+    "providerEmail": "train@petsafe.com",
+    "price": 35,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Teach your pet to safely walk on icy or snowy paths with protective gear and leash control.",
+    "image": "https://i.ibb.co.com/kVp02TwN/laura-paraschivescu-g-Srr-Ev-Ia-PII-unsplash.jpg",
+    "category": "Training"
+  }
+]
