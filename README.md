@@ -19,3 +19,23 @@ https://warmpaws-petcare-c80f8.web.app/
 React, React Router, Firebase Authentication, Tailwind CSS, React Hook Form, AOS, Swiper.js, React-Spring,  React Icons  
 
 
+
+
+নিচের ধাপগুলো অনুসরণ করলে আপনি সহজেই প্রজেক্টটি নিজের কম্পিউটারে চালাতে পারবেন।
+
+1. Clone the Repository
+2. 
+3. Install Dependencies
+   npm install i
+   
+5. Setup Environment Variables
+ একটি .env ফাইল তৈরি করে নিচের key গুলো যোগ করুন:
+  VITE_API_KEY=your_api_key
+  VITE_AUTH_DOMAIN=your_auth_domain
+  VITE_PROJECT_ID=your_project_id
+  VITE_STORAGE_BUCKET=your_bucket
+  VITE_MESSAGING_SENDER_ID=your_sender_id
+  VITE_APP_ID=your_app_id
+
+7. Start Development Server
+  npm run dev
